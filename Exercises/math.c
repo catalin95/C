@@ -39,5 +39,6 @@ int exponent(int number, int power)
     }
     
     return number;
+    
 }
 
